@@ -110,6 +110,7 @@ PRODUCT_PACKAGES += \
 	treble-overlay-xiaomi-redminote8pro \
         treble-overlay-xiaomi-mi10 \
 	treble-overlay-xiaomi-redmis2 \
+	treble-overlay-gestures \
 
 
 PRODUCT_PACKAGES += \
